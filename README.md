@@ -17,8 +17,6 @@
 
  📫 Reach out to me: **freddyaguilar647@gmail.com**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1DG1JBGIa-ljtfwGz7YJ-QmqCHsfdxK33/view?usp=sharing)
-
  ⚡ Fun fact: **Prepare this profile at 4am!"**
 
  <p  align="center">
