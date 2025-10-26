@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Freddy Aguilar</h1>
  
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Enginner;Mobile+Developer;Web+Services+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Enginner;Mobile+Developer" alt="Headline" />
     </div>  
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
@@ -12,7 +12,7 @@
 
  🌱 I am currently learning about artificial intelligence, algorithms and how to apply them to mobile applications.
 
- 💬 Ask me about **Kotlin, Dart, Java**
+ 💬 Ask me about **Kotlin, Swift, Java, Dart**
 
  📫 Reach out to me: **freddyaguilar647@gmail.com**
 
